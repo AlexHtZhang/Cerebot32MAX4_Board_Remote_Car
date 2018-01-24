@@ -1,5 +1,5 @@
 # Cerebot_32MAX4_Board_Remote_Car
-This is a Cerebot32MAX4_Board based project for personal future reference. 
+This is a Cerebot32MAX4_Board based personal project done during my undergraduate study. 
 
 # Project Description
 Used Cerebot32MAX4 Board to build a remote controlled car by bottoms and a joy sticker. The instructions
